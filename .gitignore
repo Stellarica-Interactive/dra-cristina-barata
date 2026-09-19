@@ -1,0 +1,5 @@
+# Real FTP credentials -- never committed. Copy .deploy_secrets.example instead.
+.deploy_secrets
+
+*.swp
+*.DS_Store

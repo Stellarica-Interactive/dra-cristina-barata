@@ -1,0 +1,11 @@
+# robots.txt for dracristinabarata.pt
+User-agent: *
+Allow: /
+Disallow: /css/
+Disallow: /font/
+
+# Sitemaps
+Sitemap: https://dracristinabarata.pt/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
